@@ -1,1 +1,1 @@
-Здесь собраны все алгоритмы, которые я знаю
+There are some algorithms, what i know
